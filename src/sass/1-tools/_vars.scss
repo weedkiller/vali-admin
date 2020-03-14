@@ -11,7 +11,7 @@ $body-font: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helv
 
 $white: #FFF;
 
-// Primary color is the main color of the applicarion which is used 
+// Primary color is the main color of the application which is used 
 // for navbar, active links and primary button.
 
 // ------ Primary Colors from google material design color palette ------
@@ -35,12 +35,12 @@ $sidebar-width: 230px;
 // Background color of sidebar
 $sidebar-color: #222d32;
 
-// -- Suggested sidebar colors
+// -- Suggested sidebar background colors
 // dark  : #222d32
 // light : #f8f8f8
 
 // Sidebar accent varible is used to determine the color of the links
-// in the sidebar the only Allowed values are 'light' or 'dark'
+// of the sidebar. The allowed values are 'light' or 'dark' only
 $sidebar-accent: dark;
 
 // The following varibles indecate sidebar link color
